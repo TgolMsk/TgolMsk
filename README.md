@@ -11,7 +11,7 @@
 <br/>
 
 <!-- 把下面 4 个链接换成你自己的；不需要的整行删掉即可 -->
-<a href="https://t.me/yourname"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+<a href="https://t.me/zhonghe785"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 <a href="https://your-site.com"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Website"/></a>
 <img src="https://img.shields.io/github/followers/TgolMsk?style=flat-square&label=Followers&labelColor=0D1117&color=58A6FF" alt="Followers"/>
