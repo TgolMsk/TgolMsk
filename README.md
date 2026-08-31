@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TgolMsk/TgolMsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ─────────────  HEADER  ───────────── -->
 
-Here are some ideas to get you started:
+# TgolMsk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Good Luck!** &nbsp;·&nbsp; 📍 Japan
+
+<sub>全栈开发 · 偏 Node / Vue / Web3 &nbsp;|&nbsp; Full-stack developer</sub>
+
+<br/>
+
+<!-- 把下面 4 个链接换成你自己的；不需要的整行删掉即可 -->
+<a href="https://t.me/yourname"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://your-site.com"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Website"/></a>
+<img src="https://img.shields.io/github/followers/TgolMsk?style=flat-square&label=Followers&labelColor=0D1117&color=58A6FF" alt="Followers"/>
+
+</div>
+
+---
+
+## 🧭 关于我 · About
+
+```yaml
+name:      TgolMsk
+location:  Japan
+focus:     [ 全栈应用, 跨端开发, Web3 ]
+stack:     [ TypeScript, Vue, Node.js, Solidity ]
+motto:     "Good Luck!"
+```
+
+- 🔧 日常在写 **中后台系统 / 跨端应用**，也折腾一些 **链上小实验**
+- 🌱 正在深入 **TypeScript 类型体操** 与 **合约安全**
+- 📮 有合作或想聊技术，随时通过上面的徽章找我
+
+<br/>
+
+## 🛠 技术栈 · Tech Stack
+
+**Language**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![uni--app](https://img.shields.io/badge/uni--app-0D1117?style=flat-square&logo=vuedotjs&logoColor=2B9939)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
+
+**Web3 & DevOps**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+
+<br/>
+
+## 📊 数据 · Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TgolMsk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TgolMsk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TgolMsk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TgolMsk&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F" alt="Top Languages"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TgolMsk&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+  <img src="https://streak-stats.demolab.com/?user=TgolMsk&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=6E7681" alt="Streak"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 📌 项目 · Projects
+
+<!-- 描述按你的实际情况改；fork 来的仓库建议标注一下 -->
+
+| 项目 | 说明 · Description | 技术 |
+| :--- | :--- | :--- |
+| **[clash_rules](https://github.com/TgolMsk/clash_rules)** | Clash 分流规则集合<br/><sub>Curated proxy rule sets</sub> | `Rules` |
+| **[egg_eth](https://github.com/TgolMsk/egg_eth)** | 以太坊链上交互实践<br/><sub>Ethereum on-chain experiments</sub> | `Node.js` `Web3` |
+| **[cool-uni](https://github.com/TgolMsk/cool-uni)** | 跨端 App / 小程序模板<br/><sub>Cross-platform app template</sub> | `uni-app` `Vue` |
+| **[cool-admin-midway](https://github.com/TgolMsk/cool-admin-midway)** | 中后台服务端<br/><sub>Admin backend service</sub> | `Midway` `TypeScript` |
+| **[cool-admin-vue](https://github.com/TgolMsk/cool-admin-vue)** | 中后台前端<br/><sub>Admin frontend</sub> | `Vue3` `Element Plus` |
+| **[telegram_tt](https://github.com/TgolMsk/telegram_tt)** | Telegram Web 客户端<br/><sub>Telegram web client</sub> | `TypeScript` `React` |
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=TgolMsk&style=flat-square&color=58A6FF&label=Profile+views" alt="views"/>
+
+<sub>⚡ <i>Talk is cheap. Show me the code.</i></sub>
+
+</div>
