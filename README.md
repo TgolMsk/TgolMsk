@@ -4,7 +4,7 @@
 
 # TgolMsk
 
-**Good Luck!** &nbsp;·&nbsp; 📍 Japan
+**Good Luck!** &nbsp;·&nbsp; 📮suyouwk@gmail.com
 
 <sub>全栈开发 · 偏 Node / Vue / Web3 &nbsp;|&nbsp; Full-stack developer</sub>
 
